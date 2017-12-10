@@ -1,14 +1,13 @@
 {
-  "name": "expressmusic",
+  "name": "StreamMe",
   "version": "1.0.0",
-  "description": "Simple ExpressJS app to server music for listening and downloading",
+  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "npm test"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rishabhio/ExpressMusic.git"
   },
   "keywords": [
     "expressjs",
@@ -18,12 +17,10 @@
     "in",
     "express"
   ],
-  "author": "@rishabhio",
-  "license": "MIT",
+  "author": "@nkkumawat",
   "bugs": {
-    "url": "https://github.com/rishabhio/ExpressMusic/issues"
+    "url": "https://github.com/nkkumawat/"
   },
-  "homepage": "https://github.com/rishabhio/ExpressMusic#readme",
   "dependencies": {
     "express": "^4.14.0",
     "node-dir": "^0.1.17"
