@@ -1,2 +1,2 @@
 # StramMe
-Node server for StramMe
+Node server for StreamMe
